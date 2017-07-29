@@ -7,7 +7,7 @@ spring:
         git:
           uri: https://github.com/wangtuo1/spring-cloud-config.git
           username: wangtuo
-          password: wangtuo00k
+          password: angelmxc521@
 server:
   port: 11031
 test:
