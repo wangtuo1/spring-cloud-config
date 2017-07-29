@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/wangtuo1/spring-cloud-config.git
+          username: wangtuo
+          password: wangtuo00k
+server:
+  port: 11031
+test:
+  aaa: aaa
+  bbb: bbb
