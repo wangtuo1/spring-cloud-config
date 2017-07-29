@@ -2,4 +2,4 @@ info:
   profile: dev
 
 server:
-  port: 11041
+  port: 11051
