@@ -1,5 +1,2 @@
 info:
   profile: dev
-
-server:
-  port: 11051
