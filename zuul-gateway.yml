@@ -1,14 +1,4 @@
 info:
   profile: default
   
-zuul:
-  routes:
-    service-a:
-      path: /service-a/**
-      serviceId: service-a
-    service-b:
-      path: /service-b/**
-      serviceId: service-b
-    service-c:
-      path: /service-c/**
-      serviceId: service-c
+
